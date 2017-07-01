@@ -1,0 +1,11 @@
+{
+  "name": "Eureka Server",
+  "description": "Eureka Server project for service discovery.",
+  "success_url": "/",
+  "env": {
+    "EUREKA_USER_PASSWORD": {
+      "description": "Password for the admin interface.",
+      "generator": "secret"
+    }
+  }
+}
