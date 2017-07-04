@@ -1,6 +1,6 @@
 logging:
   level:
-    ROOT: DEBUG
+    ROOT: INFO
     
 server:
   port: ${PORT:5000}
