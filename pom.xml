@@ -11,7 +11,7 @@
     <parent>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-starter-parent</artifactId>
-        <version>Angel.SR6</version>
+        <version>Finchley.M1</version>
         <relativePath/>
     </parent>
 
